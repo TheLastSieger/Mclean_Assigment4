@@ -1,0 +1,7 @@
+plane
+country
+car
+city
+state
+boat
+train
